@@ -1,2 +1,2 @@
-# Python3-spyder
-练手的爬虫程序
+# Python3Script
+脚本,工作
